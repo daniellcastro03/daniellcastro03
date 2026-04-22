@@ -39,7 +39,7 @@ Sistema interno de **validación, monitoreo y control de transacciones ACH y rem
 
 ---
 
-### 💰 LoanControl — App de Automatización de Préstamos
+### 💰 MiniFinanciera — App de Automatización de Préstamos
 **Capital Express · Enero 2025**
 
 Aplicación Android nativa para **automatizar el control de préstamos, cobranzas y clientes** en empresa financiera. Reemplaza el control manual en hojas de cálculo con una solución móvil en tiempo real.
@@ -102,7 +102,5 @@ Reportes       Power BI · ClickReport
 ---
 
 ## 📬 Contacto
-
-¿Quieres ver el código de algún proyecto o tienes una oportunidad?
 
 **daniellcastro036@gmail.com** · **+504 3294-9219**
